@@ -1,0 +1,21 @@
+Mon_morning: ABCD
+Mon_middle: 
+Mon_night: eee.ABCD.QQ
+Tue_morning: hey
+Tue_middle: ABCD.eee
+Tue_night: 
+Wed_morning: QQ.hey
+Wed_middle: ABCD
+Wed_night: eee
+Thu_morning: 
+Thu_middle: eee
+Thu_night: QQ.ABCD
+Fri_morning: hey
+Fri_middle: eee.ABCD
+Fri_night: 
+Sat_morning: 
+Sat_middle: QQ
+Sat_night: hey
+Sun_morning: hey.QQ.eee.ABCD
+Sun_middle: 
+Sun_night: QQ
